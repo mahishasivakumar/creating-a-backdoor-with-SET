@@ -53,7 +53,8 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![Uploading Screenshot 2025-04-23 185110.png…]()
+![Screenshot 2025-04-23 185110](https://github.com/user-attachments/assets/fde0acd4-5ecb-4342-a57c-374268f63bfe)
+
 
 
 
@@ -73,13 +74,15 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 In windows IE, on giving the url http://192.168.11.152, the fake Google page is displayed. The victim can enter the username and password
 
-![Uploading Screenshot 2025-04-23 185224.png…]()
+![Screenshot 2025-04-23 185224](https://github.com/user-attachments/assets/79fb01f4-4f11-4562-a0ab-1760aba3dac3)
+
 
 
 
 SET logs the information regarding the Google credentials:
 
-![Uploading Screenshot 2025-04-23 185301.png…]()
+![Screenshot 2025-04-23 185301](https://github.com/user-attachments/assets/2c061ce3-1ac2-486e-8e85-8b06c84c3e62)
+
 
 
 
